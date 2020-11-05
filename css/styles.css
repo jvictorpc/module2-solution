@@ -13,7 +13,7 @@ h1{
     margin: 30px auto 30px auto;
 }
 
-section div{
+div section{
     background-color: cornsilk;
     width: 90%;
     height:170px;
@@ -137,7 +137,7 @@ p{
     .tablet-col-12{
         width: 100%;
     }
-    div.adjust{
+    section.adjust{
         width: 95%;
     }
 }
