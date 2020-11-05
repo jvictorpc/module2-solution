@@ -143,7 +143,7 @@ p{
 }
 
 @media (max-width: 767px){
-    .mobile-col-1, .mobile-col-2, .mobile-col-3, .mobile-col-4, .mobile-col-5, .mobile-col-6, .mobile-col-7, ..mobile-col-8, .mobile-col-9, .mobile-col-10, .mobile-col-11, .mobile-col-12{
+    .mobile-col-1, .mobile-col-2, .mobile-col-3, .mobile-col-4, .mobile-col-5, .mobile-col-6, .mobile-col-7, .mobile-col-8, .mobile-col-9, .mobile-col-10, .mobile-col-11, .mobile-col-12{
         float: left;
         
         
